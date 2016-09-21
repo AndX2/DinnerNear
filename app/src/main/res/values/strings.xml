@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DinnerNear</string>
+    <string name="title_information">Information</string>
+    <string name="label_working_hours">Working hours: </string>
+    <string name="work_time_stub"> 9.00...18.00</string>
+    <string name="label_middle_cost">Middle cost: </string>
+    <string name="subtitle_sales">Sales</string>
+    <string name="sales_body_stub">Сегодня и каждую третью пятницу месяца! Четвертая булка за полцены.</string>
+    <string name="label_comments">Comments</string>
+    <string name="title_stub">Волконский</string>
+    <string name="title_activity_maps">DinnerNear</string>
+</resources>
